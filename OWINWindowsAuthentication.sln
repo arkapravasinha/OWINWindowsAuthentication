@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWINWindowsAuthentication", "OWINWindowsAuthentication\OWINWindowsAuthentication.csproj", "{15A8E428-AC40-4708-AC09-26CCF26ED5AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C217C26A-99C5-4B65-A28A-425D902F41E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A8E428-AC40-4708-AC09-26CCF26ED5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A8E428-AC40-4708-AC09-26CCF26ED5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A8E428-AC40-4708-AC09-26CCF26ED5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A8E428-AC40-4708-AC09-26CCF26ED5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C217C26A-99C5-4B65-A28A-425D902F41E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C217C26A-99C5-4B65-A28A-425D902F41E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C217C26A-99C5-4B65-A28A-425D902F41E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C217C26A-99C5-4B65-A28A-425D902F41E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781A5CE6-0E89-4E65-BB31-7F6B3D4D5E50}
+	EndGlobalSection
+EndGlobal
